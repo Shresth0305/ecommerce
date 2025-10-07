@@ -54,3 +54,4 @@ npm run build
 ```shell
 npm run start
 ```
+Trigger contributor recalculation
